@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neal-David
+- 👋 Hi, I’m @Neal-David  
 This is a portfolio account, I expect to be adding to it over time.
 
 <!---
